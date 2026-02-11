@@ -1,1 +1,1 @@
-![Alt text] (/EERDrawio.png)
+![Alt text] (/EERDrawio.png?raw=true "Optional Title")
